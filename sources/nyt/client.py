@@ -1,7 +1,7 @@
 import requests
 import json
 
-with open('config.json') as configFile:
+with open('./config.json') as configFile:
     config = json.load(configFile)
 
 def getTopFeeds(section):
