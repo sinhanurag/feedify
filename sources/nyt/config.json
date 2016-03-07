@@ -1,0 +1,9 @@
+{
+  "baseUrl": "http://api.nytimes.com",
+  "apiKey": "036bf58642612df2f323881b39a335e8:16:74637531",
+  "apis": {
+    "topStories": {
+      "path": "svc/topstories/v1/"
+    }
+  }
+}
